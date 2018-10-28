@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1036925066443",
+    "firebase_url": "https://edureka-4ea12.firebaseio.com",
+    "project_id": "edureka-4ea12",
+    "storage_bucket": "edureka-4ea12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036925066443:android:1bffede3350a4f72",
+        "android_client_info": {
+          "package_name": "co.edureka.sep29firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036925066443-1flbo9eja3o23tei14tiev7520qartnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1BPXrnouFDqAezRBcDPiPaPQ27yVvNQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
